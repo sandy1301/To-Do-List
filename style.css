@@ -1,0 +1,63 @@
+
+    body{
+        background-color: mistyrose;
+    }
+    header{
+        background-color: darkgrey;
+        text-align: center;
+        padding: 10px;
+        font-size: 30px;
+        margin: auto;
+    }
+    form{
+        display:flex;
+        justify-content: center;
+        margin:auto;
+        margin-top: 50px;
+        border-radius: 20px;
+        gap:10px;
+     }
+     input{
+        padding: 10px;
+        border: 1px solid lightcoral;
+        border-radius: 5px;
+
+     }
+     input:hover{
+        background-color: bisque;
+     }
+
+    button{
+        padding: 10px;
+        background-color: lightblue;
+        border-radius: 2px;
+        margin-right: 10px;
+        border: none;
+        cursor: pointer;
+   }
+   button:hover{
+         background-color: rgb(224, 240, 255);
+   }
+    #list{
+        background-color: lightsteelblue;
+        box-sizing: border-box;
+        width: 400px;
+        height: auto;
+        margin: auto;
+        margin-top: 10%;
+        padding: 20px;
+        border-radius: 5px;
+        list-style: none;
+    }
+    li{
+        padding: 10px;
+        margin: auto;
+    }
+    li:hover{
+        background-color: rgb(30, 212, 212);
+    }
+<<<<<<< HEAD
+    
+=======
+
+>>>>>>> 52218203ad504c89e3b790331b40cd80d26a190f
